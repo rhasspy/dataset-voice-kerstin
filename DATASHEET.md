@@ -11,7 +11,7 @@ Organization: Rhasspy
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-s dataset was created in response to a call for volunteers to create public domain, high quality, single-speaker datasets with phonetically diverse prompts for training text to speech voices.
+    This dataset was created in response to a call for volunteers to create public domain, high quality, single-speaker datasets with phonetically diverse prompts for training text to speech voices.
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
 
